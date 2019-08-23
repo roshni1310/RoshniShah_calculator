@@ -1,0 +1,11 @@
+C:\Users\RoShNi\source\repos\RoshniShah_calculator\RoshniShah_calculator\bin\Debug\netcoreapp2.1\RoshniShah_calculator.deps.json
+C:\Users\RoShNi\source\repos\RoshniShah_calculator\RoshniShah_calculator\bin\Debug\netcoreapp2.1\RoshniShah_calculator.runtimeconfig.json
+C:\Users\RoShNi\source\repos\RoshniShah_calculator\RoshniShah_calculator\bin\Debug\netcoreapp2.1\RoshniShah_calculator.runtimeconfig.dev.json
+C:\Users\RoShNi\source\repos\RoshniShah_calculator\RoshniShah_calculator\bin\Debug\netcoreapp2.1\RoshniShah_calculator.dll
+C:\Users\RoShNi\source\repos\RoshniShah_calculator\RoshniShah_calculator\bin\Debug\netcoreapp2.1\RoshniShah_calculator.pdb
+C:\Users\RoShNi\source\repos\RoshniShah_calculator\RoshniShah_calculator\obj\Debug\netcoreapp2.1\RoshniShah_calculator.csprojAssemblyReference.cache
+C:\Users\RoShNi\source\repos\RoshniShah_calculator\RoshniShah_calculator\obj\Debug\netcoreapp2.1\RoshniShah_calculator.csproj.CoreCompileInputs.cache
+C:\Users\RoShNi\source\repos\RoshniShah_calculator\RoshniShah_calculator\obj\Debug\netcoreapp2.1\RoshniShah_calculator.AssemblyInfoInputs.cache
+C:\Users\RoShNi\source\repos\RoshniShah_calculator\RoshniShah_calculator\obj\Debug\netcoreapp2.1\RoshniShah_calculator.AssemblyInfo.cs
+C:\Users\RoShNi\source\repos\RoshniShah_calculator\RoshniShah_calculator\obj\Debug\netcoreapp2.1\RoshniShah_calculator.dll
+C:\Users\RoShNi\source\repos\RoshniShah_calculator\RoshniShah_calculator\obj\Debug\netcoreapp2.1\RoshniShah_calculator.pdb
